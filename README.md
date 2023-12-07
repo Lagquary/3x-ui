@@ -13,7 +13,7 @@
 
 **Buy Me a Coffee :**
 
-- Tron USDT (TRC20): `TXncxkvhkDWGts487Pjqq1qT9JmwRUz8CC`
+- Fork Info: `TuanLuong`
 
 # Install & Upgrade
 
